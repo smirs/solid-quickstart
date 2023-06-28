@@ -10,6 +10,6 @@ describe('empty spec', () => {
 
   it('displays Click button', () => {
     cy.get('button')
-    .contains('Clicks');
+    .contains('Hit it now!');
   })
 })
