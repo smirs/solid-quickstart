@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Hello World</Title>
-      <h1>🏀 New Record: 358</h1>
+      <h1>🏀 HI New Record: 358</h1>
       <Counter />
       <p>
         Visit{" "}
